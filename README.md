@@ -46,13 +46,12 @@
 
 基础样式<br>
 
-![](screenshot\flutter1.png)
-
-![flutter2](screenshot\flutter2.png)
-
-![flutter3](screenshot\flutter3.png)
-
-![flutter4](screenshot\flutter4.png)
+<p align='left'>
+   <img src="screenshot/flutter1.png" height="300" />
+   <img src="screenshot/flutter2.png" height="300" />
+   <img src="screenshot/flutter3.png" height="300" />
+   <img src="screenshot/flutter4.png" height="300" />
+</p>
 
 <br/><br/>
 
